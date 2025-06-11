@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Jorge_Salas_Leybon/Scenes/Inicio.unity
+    guid: 0fc9fb916d136d245b441f3c25e82ceb
+  - enabled: 1
+    path: Assets/Jorge_Salas_Leybon/Scenes/TextoInicio.unity
+    guid: ec013bc4a14a6ae4ea58c93a4f6638f3
+  - enabled: 1
+    path: Assets/Jorge_Salas_Leybon/Scenes/Nivel_1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Jorge_Salas_Leybon/Scenes/Nivel_2.unity
+    guid: 36a09bd0e76e24144b74af10113a2507
+  - enabled: 1
+    path: Assets/Jorge_Salas_Leybon/Scenes/Nivel_3.unity
+    guid: 8b2105ea14979f245a37d6fe579cd7b3
+  - enabled: 1
+    path: Assets/Jorge_Salas_Leybon/Scenes/Nivel_4.unity
+    guid: 7117f6a3be87a6544a68dd4ad3da46a3
+  - enabled: 1
+    path: Assets/Jorge_Salas_Leybon/Scenes/TextoFin.unity
+    guid: 0c863a5f5a17d7e448d1694136510601
+  - enabled: 1
+    path: Assets/Jorge_Salas_Leybon/Scenes/Fin.unity
+    guid: 67f04e964d55a4649a4646f8f1997189
+  - enabled: 0
+    path: Assets/Jorge_Salas_Leybon/Scenes/Nivel_5.unity
+    guid: 2b9c00aa5b771e649b60e753fd33ab5d
+  - enabled: 0
+    path: Assets/Jorge_Salas_Leybon/Scenes/Nivel_6.unity
+    guid: 823e74d19fbbd4b4db4a60efa51e91e6
+  - enabled: 0
+    path: Assets/Jorge_Salas_Leybon/Scenes/Nivel_7.unity
+    guid: 7817445a9a30ab9488755ffcd61da696
+  m_configObjects: {}
